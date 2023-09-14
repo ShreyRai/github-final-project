@@ -4,7 +4,7 @@
 
 #Do not use this in PROD environment
 
-#Author: Shreyash Raichand (CG)
+#Author:ShreyRai (CG)
 
 #Input:
 #p :- principal amount
